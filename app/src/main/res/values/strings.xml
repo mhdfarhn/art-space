@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="cute_cat_title">Cute Cat</string>
+    <string name="cat_inside_helmet_title">Cat Inside Helmet</string>
+    <string name="hiding_cat_title">Hiding Cat</string>
+    <string name="laying_cat_title">Laying Cat</string>
+    <string name="sleepy_cat_title">Sleepy Cat</string>
+    <string name="cute_cat_description">Cute Cat Image</string>
+    <string name="cat_inside_helmet_description">Cat Inside Helmet Image</string>
+    <string name="hiding_cat_description">Hiding Cat Image</string>
+    <string name="laying_cat_description">Laying Cat Image</string>
+    <string name="sleepy_cat_description">Sleepy Cat Image</string>
+</resources>
